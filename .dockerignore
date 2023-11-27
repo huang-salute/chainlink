@@ -5,7 +5,7 @@
 node_modules/
 **/node_modules/
 vendor/
-tmp/
+tmp/8
 
 contracts/node_modules
 examples/
